@@ -1,0 +1,13 @@
+{
+  "name": "little-steps",
+  "version": "5.1.0",
+  "private": true,
+  "description": "大学生学习日程助手：课表、待办、番茄钟、倒数日、AI 任务拆解与成长复盘",
+  "scripts": {
+    "test": "node tests/e2e.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  },
+  "license": "MIT"
+}
